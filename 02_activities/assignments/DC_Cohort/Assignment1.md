@@ -207,6 +207,9 @@ Link if you encounter a paywall: https://archive.is/srKHV or https://web.archive
 
 Consider, for example, concepts of fariness, inequality, social structures, marginalization, intersection of technology and society, etc.
 
+As someone in my early 30s, a Filipina navigating academia in Toronto, I’m constantly aware of how everyday platforms like Instagram, LinkedIn, and Uber quietly shape my digital life. These apps don’t just serve me, they extract from me. My clicks, searches, and even how long I pause on a post become data to be analyzed and sold. There’s an unspoken understanding that my behaviour is a commodity, and that staying engaged matters more than how I actually feel. Even my professional identity on LinkedIn starts to feel curated for algorithms rather than reflective of who I am. It’s strange to realize how easily parts of myself are translated into something measurable and marketable.
+At the same time, the institutional systems I interact with—university databases, immigration forms, healthcare records—ask me to fit into neat, standardized boxes. There’s little room for complexity. Gender options are fixed, ethnicity categories are broad, and academic databases privilege certain ways of producing knowledge. These systems value efficiency and clarity, but at the cost of nuance. As a Filipina, I’m often reduced to “Asian,” a label that flattens my cultural identity and erases the specificity of my background. It doesn’t capture the layered experience of being part of a diaspora, or how my identity shifts across contexts. In both digital and institutional spaces, I’m reminded that databases don’t just store information—they shape how I’m seen, understood, and sometimes, overlooked.
+
 
 ```
 Your thoughts...
